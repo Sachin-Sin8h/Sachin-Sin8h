@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sachin-Sin8h
 - 👀 I’m on my transformational journey from analysis to analytics
-- 🌱 I’m good at Dashboard development in Excel/Tableau/Python and currently learning ML/Text_Mining
+- 🌱 I’m good at Dashboard development in Excel/Tableau/PowerBI and currently learning ML/Text_Mining
 - 💞️ I’m looking to collaborate on data mining projects
 - 📫 You can reach out to me at <sachinsingh27718@gmail.com>
